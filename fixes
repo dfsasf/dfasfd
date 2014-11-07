@@ -1,0 +1,14 @@
+1.	10 copränge in der DB
+2.	die DB über den root laufen lassen
+3.	anzeige wann ein fahrzeug zerstört wurde
+4.	eine Taliban-Lizenz einfügen (Preis egal - ändern wir)
+5.		----------------->bei vehicleListCfg ganz unten den marid kaufbar machen wenn man die taliban lizenz hat
+6.		-----------------> bei weaponshopcfg die taliban case - auch nur kaufbar wenn man taliban lizenz hat. man bekommt beim kauf der rpg geld
+6.1	beim fahrzeughändler werden keine fahrzeuge angezeigt
+7.	wo ist die DB für den testserver?
+8.	internetexplorer zugriff für uns aufm root
+9.	coretex aufm ts volle rechte geben
+10.	die DB über den root laufen lassen
+11.	uns zeigen wie man kleidungs skins einfügen kann
+12.	die geldanzeige unten rechts wieder in "K" anzeigen lassen
+13.	uns (mir) zeigen wie man die map exportiert
